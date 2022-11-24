@@ -10,6 +10,7 @@ import random
 from PyQt5.QtWidgets import QLabel, QPushButton
 
 
+
 class Main_Window(QMainWindow):
     def __init__(self):
         super().__init__()
