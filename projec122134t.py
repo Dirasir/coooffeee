@@ -8,6 +8,7 @@ import random
 from PyQt5.QtWidgets import QLabel, QPushButton
 from qwer import Ui_MainWindow
 
+
 class Main_Window(QMainWindow, Ui_MainWindow):
     def __init__(self):
         super().__init__()
